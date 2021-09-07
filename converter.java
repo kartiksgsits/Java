@@ -11,7 +11,7 @@ class converter{
     username = s.nextLine();
     System.out.print("Enter password:");//password:$1234@
     password = s.nextLine();
-    if(username.equals("kartik") && password.equals("$1234@"))
+    if(username.equals("user") && password.equals("$1234@"))
     {
         System.out.println("Authentication Successful");
      
