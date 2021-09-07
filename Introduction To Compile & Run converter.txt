@@ -1,0 +1,17 @@
+Project By: Kartik Soni/0801CA201026/MCA 2nd Semester
+How to Compile and Run Currency Converter using Command Prompt.
+
+Compile Process:
+1)Open your Command Prompt (Press windows+R and type "cmd").
+2)Go to the desired directory where you have saved your Program by using "cd" command.
+3)Now write "javac converter.java" to compile the java file.
+4)Your program is now compiled.
+
+Execution Process:
+1)Open your Command Prompt (Press windows+R and type "cmd").
+2)Go to the desired directory where you have saved your Program by using "cd" command.
+3)Now write "java converter" to Run your Program.
+4)Now proceed with the user inputs of your choice as per the requests.
+5)Output will be displayed(Converted Amount from one currency to another currency)
+6)You can convert more currencies just by giving any of the number except "0".
+7)If you press "0" after converting your currencies a CSV file will be created to the specified path for future reference.
